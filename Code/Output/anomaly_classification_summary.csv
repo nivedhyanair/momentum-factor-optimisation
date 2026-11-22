@@ -1,0 +1,5 @@
+Diagnostic,Count,Percentage
+Total reversal candidates,4313,100.0
+Price returns within ±5% over two days,3371,78.159054022722
+Market cap changes within ±5% over two days,3312,76.79109668444238
+Both price and market cap within ±5%,3116,72.24669603524228
