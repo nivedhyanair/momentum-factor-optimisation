@@ -1,0 +1,47 @@
+[
+  {
+    "Lookback": 21,
+    "Total_Signal_Observations": 7380,
+    "Affected_Signals": 148,
+    "Total_Anomaly_Events": 152,
+    "Affected_Percentage": 2.005,
+    "Numerator_Anomalies": 6,
+    "Denominator_Anomalies": 6
+  },
+  {
+    "Lookback": 63,
+    "Total_Signal_Observations": 7380,
+    "Affected_Signals": 422,
+    "Total_Anomaly_Events": 445,
+    "Affected_Percentage": 5.718,
+    "Numerator_Anomalies": 6,
+    "Denominator_Anomalies": 7
+  },
+  {
+    "Lookback": 126,
+    "Total_Signal_Observations": 7380,
+    "Affected_Signals": 813,
+    "Total_Anomaly_Events": 885,
+    "Affected_Percentage": 11.016,
+    "Numerator_Anomalies": 6,
+    "Denominator_Anomalies": 9
+  },
+  {
+    "Lookback": 189,
+    "Total_Signal_Observations": 7380,
+    "Affected_Signals": 1187,
+    "Total_Anomaly_Events": 1332,
+    "Affected_Percentage": 16.084,
+    "Numerator_Anomalies": 6,
+    "Denominator_Anomalies": 5
+  },
+  {
+    "Lookback": 252,
+    "Total_Signal_Observations": 7380,
+    "Affected_Signals": 1551,
+    "Total_Anomaly_Events": 1780,
+    "Affected_Percentage": 21.016,
+    "Numerator_Anomalies": 6,
+    "Denominator_Anomalies": 3
+  }
+]

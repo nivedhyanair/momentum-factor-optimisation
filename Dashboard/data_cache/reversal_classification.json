@@ -1,0 +1,22 @@
+[
+  {
+    "Diagnostic":"Total reversal candidates",
+    "Count":4313,
+    "Percentage":100.0
+  },
+  {
+    "Diagnostic":"Price returns within \u00b15% over two days",
+    "Count":3371,
+    "Percentage":78.1590540227
+  },
+  {
+    "Diagnostic":"Market cap changes within \u00b15% over two days",
+    "Count":3312,
+    "Percentage":76.7910966844
+  },
+  {
+    "Diagnostic":"Both price and market cap within \u00b15%",
+    "Count":3116,
+    "Percentage":72.2466960352
+  }
+]

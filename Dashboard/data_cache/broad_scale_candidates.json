@@ -1,0 +1,52 @@
+[
+  {
+    "Lookback": 21,
+    "Remaining_Extreme": 2821,
+    "Broad_Scale_Candidates": 901,
+    "Unique_Dates": 832,
+    "Unique_Stocks": 30,
+    "Median_Scale": 2.14,
+    "Min_Scale": 1.5,
+    "Max_Scale": 25.36
+  },
+  {
+    "Lookback": 63,
+    "Remaining_Extreme": 2843,
+    "Broad_Scale_Candidates": 912,
+    "Unique_Dates": 845,
+    "Unique_Stocks": 30,
+    "Median_Scale": 2.14,
+    "Min_Scale": 1.5,
+    "Max_Scale": 25.36
+  },
+  {
+    "Lookback": 126,
+    "Remaining_Extreme": 2855,
+    "Broad_Scale_Candidates": 918,
+    "Unique_Dates": 851,
+    "Unique_Stocks": 30,
+    "Median_Scale": 2.14,
+    "Min_Scale": 1.5,
+    "Max_Scale": 25.36
+  },
+  {
+    "Lookback": 189,
+    "Remaining_Extreme": 2892,
+    "Broad_Scale_Candidates": 925,
+    "Unique_Dates": 858,
+    "Unique_Stocks": 30,
+    "Median_Scale": 2.14,
+    "Min_Scale": 1.5,
+    "Max_Scale": 25.36
+  },
+  {
+    "Lookback": 252,
+    "Remaining_Extreme": 2886,
+    "Broad_Scale_Candidates": 937,
+    "Unique_Dates": 869,
+    "Unique_Stocks": 30,
+    "Median_Scale": 2.14,
+    "Min_Scale": 1.5,
+    "Max_Scale": 25.36
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Lookback": 21,
+    "Extreme_Held_Observations": 2865,
+    "Unique_Event_Dates": 2269,
+    "Unique_Stocks": 30,
+    "Strong_Candidates": 44,
+    "Strong_Dates": 44,
+    "Strong_Stocks": 19,
+    "Temp_5x": 39,
+    "Temp_02x": 19,
+    "Total_Abs_Strong_Contrib": 0.4485
+  },
+  {
+    "Lookback": 63,
+    "Extreme_Held_Observations": 2886,
+    "Unique_Event_Dates": 2284,
+    "Unique_Stocks": 30,
+    "Strong_Candidates": 43,
+    "Strong_Dates": 43,
+    "Strong_Stocks": 21,
+    "Temp_5x": 38,
+    "Temp_02x": 19,
+    "Total_Abs_Strong_Contrib": 0.4578
+  },
+  {
+    "Lookback": 126,
+    "Extreme_Held_Observations": 2901,
+    "Unique_Event_Dates": 2292,
+    "Unique_Stocks": 30,
+    "Strong_Candidates": 46,
+    "Strong_Dates": 46,
+    "Strong_Stocks": 22,
+    "Temp_5x": 38,
+    "Temp_02x": 20,
+    "Total_Abs_Strong_Contrib": 0.4852
+  },
+  {
+    "Lookback": 189,
+    "Extreme_Held_Observations": 2940,
+    "Unique_Event_Dates": 2311,
+    "Unique_Stocks": 30,
+    "Strong_Candidates": 48,
+    "Strong_Dates": 48,
+    "Strong_Stocks": 23,
+    "Temp_5x": 40,
+    "Temp_02x": 21,
+    "Total_Abs_Strong_Contrib": 0.5218
+  },
+  {
+    "Lookback": 252,
+    "Extreme_Held_Observations": 2933,
+    "Unique_Event_Dates": 2307,
+    "Unique_Stocks": 30,
+    "Strong_Candidates": 47,
+    "Strong_Dates": 47,
+    "Strong_Stocks": 22,
+    "Temp_5x": 38,
+    "Temp_02x": 21,
+    "Total_Abs_Strong_Contrib": 0.5143
+  }
+]

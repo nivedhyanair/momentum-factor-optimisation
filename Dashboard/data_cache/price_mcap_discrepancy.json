@@ -1,0 +1,702 @@
+[
+  {
+    "date":"2013-11-05",
+    "Ticker":"GICH.NS",
+    "Price Return":24.3610202747,
+    "Market Cap Return":0.0387444826,
+    "Absolute Difference":24.3222757921
+  },
+  {
+    "date":"2008-07-01",
+    "Ticker":"THOM.NS",
+    "Price Return":17.2431941924,
+    "Market Cap Return":-0.037402964,
+    "Absolute Difference":17.2805971564
+  },
+  {
+    "date":"2016-10-30",
+    "Ticker":"ARTI.NS",
+    "Price Return":0.0013047166,
+    "Market Cap Return":15.9509270661,
+    "Absolute Difference":15.9496223495
+  },
+  {
+    "date":"2016-11-23",
+    "Ticker":"IMCL.NS",
+    "Price Return":0.037826191,
+    "Market Cap Return":15.239973884,
+    "Absolute Difference":15.202147693
+  },
+  {
+    "date":"2021-02-11",
+    "Ticker":"TANE.BO",
+    "Price Return":14.2875481386,
+    "Market Cap Return":0.003021148,
+    "Absolute Difference":14.2845269906
+  },
+  {
+    "date":"2020-08-17",
+    "Ticker":"VENK.NS",
+    "Price Return":14.3100734231,
+    "Market Cap Return":0.0258040665,
+    "Absolute Difference":14.2842693565
+  },
+  {
+    "date":"2012-02-21",
+    "Ticker":"GICH.NS",
+    "Price Return":0.0006306164,
+    "Market Cap Return":13.9472216784,
+    "Absolute Difference":13.9465910619
+  },
+  {
+    "date":"2020-11-05",
+    "Ticker":"GICH.NS",
+    "Price Return":0.0054147465,
+    "Market Cap Return":12.8340050903,
+    "Absolute Difference":12.8285903437
+  },
+  {
+    "date":"2013-12-17",
+    "Ticker":"XPRO.NS",
+    "Price Return":11.6862385321,
+    "Market Cap Return":-0.0429104478,
+    "Absolute Difference":11.7291489799
+  },
+  {
+    "date":"2011-07-12",
+    "Ticker":"VENK.NS",
+    "Price Return":11.6584154574,
+    "Market Cap Return":-0.0470309177,
+    "Absolute Difference":11.7054463752
+  },
+  {
+    "date":"2017-07-21",
+    "Ticker":"CHPC.NS",
+    "Price Return":11.0078901227,
+    "Market Cap Return":0.0142409198,
+    "Absolute Difference":10.993649203
+  },
+  {
+    "date":"2023-04-20",
+    "Ticker":"JAAO.NS",
+    "Price Return":10.8901873493,
+    "Market Cap Return":-0.0144756278,
+    "Absolute Difference":10.9046629771
+  },
+  {
+    "date":"2013-01-04",
+    "Ticker":"TANE.BO",
+    "Price Return":10.6870503597,
+    "Market Cap Return":-0.0059055118,
+    "Absolute Difference":10.6929558715
+  },
+  {
+    "date":"2017-01-20",
+    "Ticker":"BOB.NS",
+    "Price Return":10.539489382,
+    "Market Cap Return":-0.0359150531,
+    "Absolute Difference":10.5754044351
+  },
+  {
+    "date":"2023-12-18",
+    "Ticker":"XPRO.NS",
+    "Price Return":10.573218415,
+    "Market Cap Return":0.0473535139,
+    "Absolute Difference":10.5258649011
+  },
+  {
+    "date":"2005-02-16",
+    "Ticker":"XPRO.NS",
+    "Price Return":0.004211793,
+    "Market Cap Return":10.331259998,
+    "Absolute Difference":10.327048205
+  },
+  {
+    "date":"2019-10-04",
+    "Ticker":"HEGL.NS",
+    "Price Return":-0.4697800645,
+    "Market Cap Return":9.8536468036,
+    "Absolute Difference":10.3234268681
+  },
+  {
+    "date":"2024-08-09",
+    "Ticker":"VSTI.NS",
+    "Price Return":0.0014833127,
+    "Market Cap Return":9.6248790364,
+    "Absolute Difference":9.6233957237
+  },
+  {
+    "date":"2011-06-01",
+    "Ticker":"THOM.NS",
+    "Price Return":9.6095890411,
+    "Market Cap Return":0.01998002,
+    "Absolute Difference":9.5896090211
+  },
+  {
+    "date":"2015-08-18",
+    "Ticker":"WIPR.NS",
+    "Price Return":9.5385507246,
+    "Market Cap Return":-0.0081618477,
+    "Absolute Difference":9.5467125723
+  },
+  {
+    "date":"2013-01-23",
+    "Ticker":"TVEL.NS",
+    "Price Return":9.3937007874,
+    "Market Cap Return":-0.02,
+    "Absolute Difference":9.4137007874
+  },
+  {
+    "date":"2006-10-16",
+    "Ticker":"VENK.NS",
+    "Price Return":0.0109268036,
+    "Market Cap Return":9.3991928583,
+    "Absolute Difference":9.3882660548
+  },
+  {
+    "date":"2012-07-25",
+    "Ticker":"NALU.NS",
+    "Price Return":9.2524186456,
+    "Market Cap Return":-0.0165745856,
+    "Absolute Difference":9.2689932312
+  },
+  {
+    "date":"2020-12-30",
+    "Ticker":"BOB.NS",
+    "Price Return":9.1290926099,
+    "Market Cap Return":-0.0040096231,
+    "Absolute Difference":9.133102233
+  },
+  {
+    "date":"2021-05-19",
+    "Ticker":"GENS.NS",
+    "Price Return":-0.0112800392,
+    "Market Cap Return":9.0732424699,
+    "Absolute Difference":9.0845225092
+  },
+  {
+    "date":"2011-09-23",
+    "Ticker":"VSTI.NS",
+    "Price Return":8.7082920383,
+    "Market Cap Return":0.0198823962,
+    "Absolute Difference":8.6884096421
+  },
+  {
+    "date":"2009-08-10",
+    "Ticker":"AEGS.NS",
+    "Price Return":-0.0107526882,
+    "Market Cap Return":8.5265808917,
+    "Absolute Difference":8.5373335799
+  },
+  {
+    "date":"2021-06-30",
+    "Ticker":"XPRO.NS",
+    "Price Return":8.4996261682,
+    "Market Cap Return":-0.0276577355,
+    "Absolute Difference":8.5272839037
+  },
+  {
+    "date":"2022-03-17",
+    "Ticker":"XPRO.NS",
+    "Price Return":8.5453371593,
+    "Market Cap Return":0.0499764262,
+    "Absolute Difference":8.495360733
+  },
+  {
+    "date":"2017-12-14",
+    "Ticker":"HEGL.NS",
+    "Price Return":8.2873672231,
+    "Market Cap Return":0.0071004663,
+    "Absolute Difference":8.2802667568
+  },
+  {
+    "date":"2006-07-19",
+    "Ticker":"ARTI.NS",
+    "Price Return":7.4943820225,
+    "Market Cap Return":-0.7417314158,
+    "Absolute Difference":8.2361134382
+  },
+  {
+    "date":"2009-08-11",
+    "Ticker":"OSGL.NS",
+    "Price Return":-0.0028232637,
+    "Market Cap Return":8.1705519958,
+    "Absolute Difference":8.1733752595
+  },
+  {
+    "date":"2016-02-04",
+    "Ticker":"ASHT.NS",
+    "Price Return":7.9832327297,
+    "Market Cap Return":-0.0521929825,
+    "Absolute Difference":8.0354257122
+  },
+  {
+    "date":"2007-01-11",
+    "Ticker":"SEAM.NS",
+    "Price Return":0.0115705292,
+    "Market Cap Return":7.9780218317,
+    "Absolute Difference":7.9664513025
+  },
+  {
+    "date":"2023-06-30",
+    "Ticker":"CHPC.NS",
+    "Price Return":0.0055758792,
+    "Market Cap Return":7.9571748279,
+    "Absolute Difference":7.9515989487
+  },
+  {
+    "date":"2019-10-09",
+    "Ticker":"GICH.NS",
+    "Price Return":0.0204871186,
+    "Market Cap Return":7.907288729,
+    "Absolute Difference":7.8868016104
+  },
+  {
+    "date":"2019-05-06",
+    "Ticker":"OSGL.NS",
+    "Price Return":-0.0461165049,
+    "Market Cap Return":7.6691998456,
+    "Absolute Difference":7.7153163504
+  },
+  {
+    "date":"2007-10-24",
+    "Ticker":"CEMI.NS",
+    "Price Return":7.5214979196,
+    "Market Cap Return":0.0122814949,
+    "Absolute Difference":7.5092164247
+  },
+  {
+    "date":"2013-10-22",
+    "Ticker":"JAAO.NS",
+    "Price Return":7.3983050847,
+    "Market Cap Return":-0.0313846154,
+    "Absolute Difference":7.4296897001
+  },
+  {
+    "date":"2024-12-03",
+    "Ticker":"VENK.NS",
+    "Price Return":7.4188021454,
+    "Market Cap Return":0.0047801695,
+    "Absolute Difference":7.414021976
+  },
+  {
+    "date":"2014-09-18",
+    "Ticker":"VENK.NS",
+    "Price Return":7.4067839578,
+    "Market Cap Return":0.0277878678,
+    "Absolute Difference":7.37899609
+  },
+  {
+    "date":"2017-02-20",
+    "Ticker":"VSTI.NS",
+    "Price Return":0.0229909755,
+    "Market Cap Return":7.2964955441,
+    "Absolute Difference":7.2735045686
+  },
+  {
+    "date":"2011-03-04",
+    "Ticker":"WRRN.BO",
+    "Price Return":0.00406731,
+    "Market Cap Return":7.1731625098,
+    "Absolute Difference":7.1690951998
+  },
+  {
+    "date":"2025-07-01",
+    "Ticker":"WSTC.NS",
+    "Price Return":0.0163138978,
+    "Market Cap Return":7.1031941956,
+    "Absolute Difference":7.0868802978
+  },
+  {
+    "date":"2012-04-04",
+    "Ticker":"CHPC.NS",
+    "Price Return":-0.0028129395,
+    "Market Cap Return":7.0504897486,
+    "Absolute Difference":7.0533026882
+  },
+  {
+    "date":"2013-03-19",
+    "Ticker":"WSTC.NS",
+    "Price Return":7.051458671,
+    "Market Cap Return":0.0007942812,
+    "Absolute Difference":7.0506643898
+  },
+  {
+    "date":"2012-10-05",
+    "Ticker":"KAMT.NS",
+    "Price Return":6.9728847602,
+    "Market Cap Return":-0.0082840237,
+    "Absolute Difference":6.9811687839
+  },
+  {
+    "date":"2023-06-22",
+    "Ticker":"CEMI.NS",
+    "Price Return":-0.0230601622,
+    "Market Cap Return":6.9222436495,
+    "Absolute Difference":6.9453038117
+  },
+  {
+    "date":"2011-03-14",
+    "Ticker":"GICH.NS",
+    "Price Return":-0.0019598236,
+    "Market Cap Return":6.9391192526,
+    "Absolute Difference":6.9410790762
+  },
+  {
+    "date":"2006-08-17",
+    "Ticker":"CHPC.NS",
+    "Price Return":-0.0113511821,
+    "Market Cap Return":6.8743037393,
+    "Absolute Difference":6.8856549214
+  },
+  {
+    "date":"2015-10-06",
+    "Ticker":"WRRN.BO",
+    "Price Return":6.8723806752,
+    "Market Cap Return":-0.0066716086,
+    "Absolute Difference":6.8790522838
+  },
+  {
+    "date":"2014-10-16",
+    "Ticker":"THOM.NS",
+    "Price Return":6.8697045212,
+    "Market Cap Return":-0.002712784,
+    "Absolute Difference":6.8724173052
+  },
+  {
+    "date":"2013-05-24",
+    "Ticker":"IMCL.NS",
+    "Price Return":6.8486238532,
+    "Market Cap Return":-0.0068027211,
+    "Absolute Difference":6.8554265743
+  },
+  {
+    "date":"2024-06-26",
+    "Ticker":"JKIN.NS",
+    "Price Return":-0.0105916635,
+    "Market Cap Return":6.8278623099,
+    "Absolute Difference":6.8384539734
+  },
+  {
+    "date":"2024-06-20",
+    "Ticker":"KAMT.NS",
+    "Price Return":6.8560304398,
+    "Market Cap Return":0.0263112566,
+    "Absolute Difference":6.8297191832
+  },
+  {
+    "date":"2013-06-07",
+    "Ticker":"WSTC.NS",
+    "Price Return":-0.0292360222,
+    "Market Cap Return":6.5735538894,
+    "Absolute Difference":6.6027899116
+  },
+  {
+    "date":"2008-09-18",
+    "Ticker":"TAJG.NS",
+    "Price Return":-0.0207042254,
+    "Market Cap Return":6.5764698872,
+    "Absolute Difference":6.5971741125
+  },
+  {
+    "date":"2019-10-11",
+    "Ticker":"VSTI.NS",
+    "Price Return":6.5344111726,
+    "Market Cap Return":0.0002136495,
+    "Absolute Difference":6.5341975231
+  },
+  {
+    "date":"2013-03-07",
+    "Ticker":"TANE.BO",
+    "Price Return":-0.0195961995,
+    "Market Cap Return":6.4638428297,
+    "Absolute Difference":6.4834390292
+  },
+  {
+    "date":"2024-08-06",
+    "Ticker":"TAJG.NS",
+    "Price Return":6.3284093907,
+    "Market Cap Return":-0.0170954638,
+    "Absolute Difference":6.3455048544
+  },
+  {
+    "date":"2016-01-27",
+    "Ticker":"HEGL.NS",
+    "Price Return":6.354368932,
+    "Market Cap Return":0.0114709852,
+    "Absolute Difference":6.3428979469
+  },
+  {
+    "date":"2016-05-12",
+    "Ticker":"WSTC.NS",
+    "Price Return":6.1775267883,
+    "Market Cap Return":-0.0375738057,
+    "Absolute Difference":6.215100594
+  },
+  {
+    "date":"2025-06-13",
+    "Ticker":"AEGS.NS",
+    "Price Return":-0.0148900254,
+    "Market Cap Return":6.0980908218,
+    "Absolute Difference":6.1129808472
+  },
+  {
+    "date":"2011-04-13",
+    "Ticker":"VSTI.NS",
+    "Price Return":0.1455323703,
+    "Market Cap Return":6.0282691002,
+    "Absolute Difference":5.88273673
+  },
+  {
+    "date":"2005-05-12",
+    "Ticker":"BRIT.NS",
+    "Price Return":5.7648911798,
+    "Market Cap Return":0.0073255814,
+    "Absolute Difference":5.7575655984
+  },
+  {
+    "date":"2012-10-10",
+    "Ticker":"TVEL.NS",
+    "Price Return":-0.0156555773,
+    "Market Cap Return":5.7146723772,
+    "Absolute Difference":5.7303279545
+  },
+  {
+    "date":"2011-08-23",
+    "Ticker":"MDRD.BO",
+    "Price Return":5.761627907,
+    "Market Cap Return":0.036900369,
+    "Absolute Difference":5.724727538
+  },
+  {
+    "date":"2019-01-02",
+    "Ticker":"WHEL.NS",
+    "Price Return":-0.0003838219,
+    "Market Cap Return":5.6816239294,
+    "Absolute Difference":5.6820077513
+  },
+  {
+    "date":"2023-10-10",
+    "Ticker":"HEGL.NS",
+    "Price Return":5.5812740253,
+    "Market Cap Return":0.0040185646,
+    "Absolute Difference":5.5772554606
+  },
+  {
+    "date":"2020-05-08",
+    "Ticker":"WSTC.NS",
+    "Price Return":5.471345515,
+    "Market Cap Return":-0.0297918162,
+    "Absolute Difference":5.5011373312
+  },
+  {
+    "date":"2008-05-15",
+    "Ticker":"WIPR.NS",
+    "Price Return":0.0148839556,
+    "Market Cap Return":5.5034837932,
+    "Absolute Difference":5.4885998375
+  },
+  {
+    "date":"2014-12-04",
+    "Ticker":"WIPR.NS",
+    "Price Return":5.3267491671,
+    "Market Cap Return":-0.001936516,
+    "Absolute Difference":5.328685683
+  },
+  {
+    "date":"2017-11-01",
+    "Ticker":"WSTC.NS",
+    "Price Return":7.5542354758,
+    "Market Cap Return":2.5048298598,
+    "Absolute Difference":5.049405616
+  },
+  {
+    "date":"2005-10-06",
+    "Ticker":"MDRD.BO",
+    "Price Return":4.1706036745,
+    "Market Cap Return":-0.7676101471,
+    "Absolute Difference":4.9382138217
+  },
+  {
+    "date":"2005-09-08",
+    "Ticker":"WRRN.BO",
+    "Price Return":4.0097481722,
+    "Market Cap Return":-0.7624240437,
+    "Absolute Difference":4.7721722159
+  },
+  {
+    "date":"2006-07-20",
+    "Ticker":"AEGS.NS",
+    "Price Return":-0.7572663001,
+    "Market Cap Return":3.9912259536,
+    "Absolute Difference":4.7484922537
+  },
+  {
+    "date":"2016-10-17",
+    "Ticker":"MDRD.BO",
+    "Price Return":-0.5458633094,
+    "Market Cap Return":4.1911245205,
+    "Absolute Difference":4.7369878299
+  },
+  {
+    "date":"2009-08-21",
+    "Ticker":"VENK.NS",
+    "Price Return":4.0737298637,
+    "Market Cap Return":-0.6609010745,
+    "Absolute Difference":4.7346309381
+  },
+  {
+    "date":"2008-02-04",
+    "Ticker":"MDRD.BO",
+    "Price Return":-0.0210727969,
+    "Market Cap Return":4.6936611901,
+    "Absolute Difference":4.714733987
+  },
+  {
+    "date":"2026-05-11",
+    "Ticker":"WSTC.NS",
+    "Price Return":3.955928967,
+    "Market Cap Return":-0.7458116734,
+    "Absolute Difference":4.7017406404
+  },
+  {
+    "date":"2006-08-10",
+    "Ticker":"CEMI.NS",
+    "Price Return":4.143296433,
+    "Market Cap Return":-0.5491782403,
+    "Absolute Difference":4.6924746732
+  },
+  {
+    "date":"2018-06-18",
+    "Ticker":"BOB.NS",
+    "Price Return":3.9614532565,
+    "Market Cap Return":-0.7266586975,
+    "Absolute Difference":4.688111954
+  },
+  {
+    "date":"2017-01-10",
+    "Ticker":"WHEL.NS",
+    "Price Return":3.983533454,
+    "Market Cap Return":-0.700096287,
+    "Absolute Difference":4.683629741
+  },
+  {
+    "date":"2012-04-18",
+    "Ticker":"IMCL.NS",
+    "Price Return":-0.6965,
+    "Market Cap Return":3.9760039318,
+    "Absolute Difference":4.6725039318
+  },
+  {
+    "date":"2016-12-13",
+    "Ticker":"MDRD.BO",
+    "Price Return":0.0097087379,
+    "Market Cap Return":4.6730454051,
+    "Absolute Difference":4.6633366672
+  },
+  {
+    "date":"2014-11-25",
+    "Ticker":"NALU.NS",
+    "Price Return":3.9577114428,
+    "Market Cap Return":-0.70103554,
+    "Absolute Difference":4.6587469827
+  },
+  {
+    "date":"2012-06-12",
+    "Ticker":"WHEL.NS",
+    "Price Return":-0.6365255369,
+    "Market Cap Return":4.0044171935,
+    "Absolute Difference":4.6409427304
+  },
+  {
+    "date":"2008-09-05",
+    "Ticker":"WHEL.NS",
+    "Price Return":-0.7457857994,
+    "Market Cap Return":3.8950751569,
+    "Absolute Difference":4.6408609563
+  },
+  {
+    "date":"2018-03-20",
+    "Ticker":"SEAM.NS",
+    "Price Return":3.9696755611,
+    "Market Cap Return":-0.6682000446,
+    "Absolute Difference":4.6378756057
+  },
+  {
+    "date":"2015-11-24",
+    "Ticker":"AEGS.NS",
+    "Price Return":-0.6379932233,
+    "Market Cap Return":3.9793061037,
+    "Absolute Difference":4.617299327
+  },
+  {
+    "date":"2008-05-27",
+    "Ticker":"TAJG.NS",
+    "Price Return":-0.0027499191,
+    "Market Cap Return":4.5745345304,
+    "Absolute Difference":4.5772844495
+  },
+  {
+    "date":"2025-05-14",
+    "Ticker":"GENS.NS",
+    "Price Return":4.6031188087,
+    "Market Cap Return":0.0291722722,
+    "Absolute Difference":4.5739465365
+  },
+  {
+    "date":"2011-04-28",
+    "Ticker":"HLVL.NS",
+    "Price Return":-0.7437530925,
+    "Market Cap Return":3.8094941368,
+    "Absolute Difference":4.5532472293
+  },
+  {
+    "date":"2022-08-08",
+    "Ticker":"JKIN.NS",
+    "Price Return":-0.736261968,
+    "Market Cap Return":3.7924777423,
+    "Absolute Difference":4.5287397103
+  },
+  {
+    "date":"2010-12-10",
+    "Ticker":"GENS.NS",
+    "Price Return":4.6812877829,
+    "Market Cap Return":0.1585923218,
+    "Absolute Difference":4.5226954612
+  },
+  {
+    "date":"2010-06-29",
+    "Ticker":"WHEL.NS",
+    "Price Return":-0.6278104276,
+    "Market Cap Return":3.8880017298,
+    "Absolute Difference":4.5158121574
+  },
+  {
+    "date":"2021-08-20",
+    "Ticker":"SEAM.NS",
+    "Price Return":-0.0135589484,
+    "Market Cap Return":4.4970978194,
+    "Absolute Difference":4.5106567678
+  },
+  {
+    "date":"2014-03-22",
+    "Ticker":"WRRN.BO",
+    "Price Return":3.8116693679,
+    "Market Cap Return":-0.6897268541,
+    "Absolute Difference":4.501396222
+  },
+  {
+    "date":"2007-10-23",
+    "Ticker":"WHEL.NS",
+    "Price Return":3.8580310881,
+    "Market Cap Return":-0.642880413,
+    "Absolute Difference":4.5009115011
+  },
+  {
+    "date":"2013-07-29",
+    "Ticker":"WIPR.NS",
+    "Price Return":3.7305773343,
+    "Market Cap Return":-0.7533551485,
+    "Absolute Difference":4.4839324828
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "ticker": "GICH.NS",
+    "event_date": "2013-11-05",
+    "title": "GIC Housing Finance (GICH.NS) \u2014 +2,436% Spike & Reversal",
+    "note": "Price jumps from 15.29 to 387.77 (25.36x factor) and drops back to 76.75 on next trading day, while market cap remained completely flat (+3.8%).",
+    "history": [
+      {
+        "date": "2013-10-29",
+        "price": 74.46,
+        "mcap": 3204898978.321654,
+        "is_event": false
+      },
+      {
+        "date": "2013-10-30",
+        "price": 73.87,
+        "mcap": 5379721493.4,
+        "is_event": false
+      },
+      {
+        "date": "2013-10-31",
+        "price": 73.5,
+        "mcap": 5352795960.4,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-01",
+        "price": 75.38,
+        "mcap": 5490116178.7,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-03",
+        "price": 15.29,
+        "mcap": 5490116178.7,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-05",
+        "price": 387.77,
+        "mcap": 5702827889.39999,
+        "is_event": true
+      },
+      {
+        "date": "2013-11-06",
+        "price": 76.75,
+        "mcap": 5589740650.8,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-07",
+        "price": 74.72,
+        "mcap": 5441650219.29999,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-08",
+        "price": 73.54,
+        "mcap": 5355488513.7,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-11",
+        "price": 72.13,
+        "mcap": 5253171488.3,
+        "is_event": false
+      },
+      {
+        "date": "2013-11-12",
+        "price": 70.98,
+        "mcap": 5169702336.0,
+        "is_event": false
+      }
+    ]
+  },
+  {
+    "ticker": "THOM.NS",
+    "event_date": "2008-07-01",
+    "title": "Thomas Cook India (THOM.NS) \u2014 +1,724% Anomaly Event",
+    "note": "Price dropped to 5.51 then spiked to 100.52 (18.2x jump) before collapsing back to 20.44. Market cap changed by merely -3.7%.",
+    "history": [
+      {
+        "date": "2008-06-24",
+        "price": 22.29,
+        "mcap": 12187299856.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-06-25",
+        "price": 21.92,
+        "mcap": 11986321956.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-06-26",
+        "price": 22.38,
+        "mcap": 12147104276.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-06-27",
+        "price": 22.22,
+        "mcap": 12187299856.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-06-30",
+        "price": 5.51,
+        "mcap": 11391428080.5,
+        "is_event": false
+      },
+      {
+        "date": "2008-07-01",
+        "price": 100.52,
+        "mcap": 10965354906.0,
+        "is_event": true
+      },
+      {
+        "date": "2008-07-02",
+        "price": 20.44,
+        "mcap": 11190450168.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-07-03",
+        "price": 20.27,
+        "mcap": 11013589605.0,
+        "is_event": false
+      },
+      {
+        "date": "2008-07-04",
+        "price": 20.51,
+        "mcap": 11246723983.5,
+        "is_event": false
+      },
+      {
+        "date": "2008-07-07",
+        "price": 21.07,
+        "mcap": 11391428080.5,
+        "is_event": false
+      },
+      {
+        "date": "2008-07-08",
+        "price": 22.23,
+        "mcap": 12114948565.5,
+        "is_event": false
+      }
+    ]
+  },
+  {
+    "ticker": "TAJG.NS",
+    "event_date": "2010-01-19",
+    "title": "TajGVK Hotels (TAJG.NS) \u2014 5x Price-Scale Distortion",
+    "note": "Temporary ~5x price jump while market cap remained constant, directly contributing +85.5% to portfolio return on a single day.",
+    "history": [
+      {
+        "date": "2010-01-12",
+        "price": 141.35,
+        "mcap": 9662300379.49996,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-13",
+        "price": 139.8,
+        "mcap": 9618409332.99997,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-14",
+        "price": 138.66,
+        "mcap": 9527492165.24996,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-15",
+        "price": 625.79,
+        "mcap": 9715596650.25,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-18",
+        "price": 146.8,
+        "mcap": 10035374274.75,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-19",
+        "price": 721.78,
+        "mcap": 49481401478.31498,
+        "is_event": true
+      },
+      {
+        "date": "2010-01-20",
+        "price": 148.44,
+        "mcap": 10129426517.25,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-21",
+        "price": 140.58,
+        "mcap": 9668570528.99996,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-22",
+        "price": 139.02,
+        "mcap": 9493006342.99996,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-25",
+        "price": 140.85,
+        "mcap": 9602733959.24997,
+        "is_event": false
+      },
+      {
+        "date": "2010-01-27",
+        "price": 134.4,
+        "mcap": 9210849615.49998,
+        "is_event": false
+      }
+    ]
+  }
+]

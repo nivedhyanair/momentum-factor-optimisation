@@ -1,0 +1,67 @@
+[
+  {
+    "Lookback": 21,
+    "Total_Extreme": 2865,
+    "Strong_Candidates": 44,
+    "Remaining_Extreme": 2821,
+    "Remaining_Dates": 2244,
+    "Remaining_Stocks": 30,
+    "Abs_Remaining_Contrib": 48.62,
+    "Max_Pos_Return": 24.36,
+    "Max_Neg_Return": -0.802,
+    "Max_Daily_Return": 1.4029,
+    "Min_Daily_Return": -0.5791
+  },
+  {
+    "Lookback": 63,
+    "Total_Extreme": 2886,
+    "Strong_Candidates": 43,
+    "Remaining_Extreme": 2843,
+    "Remaining_Dates": 2259,
+    "Remaining_Stocks": 30,
+    "Abs_Remaining_Contrib": 49.85,
+    "Max_Pos_Return": 24.36,
+    "Max_Neg_Return": -0.802,
+    "Max_Daily_Return": 1.4029,
+    "Min_Daily_Return": -0.5791
+  },
+  {
+    "Lookback": 126,
+    "Total_Extreme": 2901,
+    "Strong_Candidates": 46,
+    "Remaining_Extreme": 2855,
+    "Remaining_Dates": 2267,
+    "Remaining_Stocks": 30,
+    "Abs_Remaining_Contrib": 50.14,
+    "Max_Pos_Return": 24.36,
+    "Max_Neg_Return": -0.802,
+    "Max_Daily_Return": 1.4029,
+    "Min_Daily_Return": -0.5791
+  },
+  {
+    "Lookback": 189,
+    "Total_Extreme": 2940,
+    "Strong_Candidates": 48,
+    "Remaining_Extreme": 2892,
+    "Remaining_Dates": 2286,
+    "Remaining_Stocks": 30,
+    "Abs_Remaining_Contrib": 51.32,
+    "Max_Pos_Return": 24.36,
+    "Max_Neg_Return": -0.802,
+    "Max_Daily_Return": 1.4029,
+    "Min_Daily_Return": -0.5791
+  },
+  {
+    "Lookback": 252,
+    "Total_Extreme": 2933,
+    "Strong_Candidates": 47,
+    "Remaining_Extreme": 2886,
+    "Remaining_Dates": 2282,
+    "Remaining_Stocks": 30,
+    "Abs_Remaining_Contrib": 51.05,
+    "Max_Pos_Return": 24.36,
+    "Max_Neg_Return": -0.802,
+    "Max_Daily_Return": 1.4029,
+    "Min_Daily_Return": -0.5791
+  }
+]
