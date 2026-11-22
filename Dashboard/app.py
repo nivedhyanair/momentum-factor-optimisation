@@ -15,8 +15,11 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Load custom CSS
-with open("styles.css", "r", encoding="utf-8") as f:
+# Load custom CSS from the dashboard folder
+from pathlib import Path
+
+css_path = Path(__file__).resolve().parent / "styles.css"
+with css_path.open("r", encoding="utf-8") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Import modular components
